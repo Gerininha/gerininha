@@ -15,7 +15,7 @@
   
   <div>
     <a href="https://www.instagram.com/ageeleia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/ageleinha" target="_blank"><img src="https://img.shields.io/badge/Twitter-9146FF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/ageleinha" target="_blank"><img src="https://img.shields.io/badge/Twitter-18bae9?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href = "mailto:reeginaritter@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
    </div>
